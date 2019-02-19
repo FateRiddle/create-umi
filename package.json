@@ -3,7 +3,7 @@
   "version": "0.0.2",
   "description": "Creates a UmiJS application using the command line.",
   "bin": {
-    "create-umi": "cli.js"
+    "create-umi-fliggy": "cli.js"
   },
   "scripts": {
     "changelog": "git changelog CHANGELOG.md && git add ./ && git commit -m 'update CHANGELOG.md'",
