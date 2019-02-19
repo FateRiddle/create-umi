@@ -1,6 +1,6 @@
 {
   "name": "create-umi-fliggy",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Creates a UmiJS application using the command line.",
   "bin": {
     "create-umi-fliggy": "cli.js"
